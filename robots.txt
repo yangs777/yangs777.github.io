@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yangs777.github.io/yejeon/sitemap.xml
+Sitemap: https://yangs777.github.io/yejeon/reference/sitemap.xml
