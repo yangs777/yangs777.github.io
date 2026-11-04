@@ -7,5 +7,4 @@ Sitemap: https://yangs777.github.io/yejeon/reference/sitemap.xml
 Sitemap: https://yangs777.github.io/labelroom/sitemap.xml
 Sitemap: https://yangs777.github.io/eunbit-church-website/sitemap.xml
 
-#DaumWebMasterTool:27a260c4787ba6781b707b5d2ccc7a919efa706b5a89b13a5feefa378cd5bcf6:u1KY4V8+6gddZ3NiGzwUZw==
 #DaumWebMasterTool:1cb37d7f1acb09f09444bc3b54edf1e9089cfc33151288bad753773335987c84:u1KY4V8+6gddZ3NiGzwUZw==
